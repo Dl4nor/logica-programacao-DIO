@@ -11,7 +11,9 @@ solucionar o Desafio de lógica do Bootcamp Santander 2024
   <p>
     Fixar o conteúdo de lógica de programação
     e solucionar o desafio do Felipão da DIO
-    <img align=right width="10%" src=https://s5.ezgif.com/tmp/ezgif-5-4830bd313f.gif>
+    <a href="https://pin.it/6kPqJeqP0">
+      <img align=right width="10%" title="Pika pika" alt="Pikachu simpático dando tchau" src=https://cdn.discordapp.com/attachments/1235359282770214978/1236380047783235737/Sobrenatural-ezgif.com-speed.gif?ex=6637cc26&is=66367aa6&hm=e61dae6cbe37292e5ff5040ffed7de1ca753a7c60b6a75d0e92697506a63bed4&>
+    </a>
     <br><br>
   </p>
 </div>
