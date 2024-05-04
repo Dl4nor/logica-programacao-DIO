@@ -10,6 +10,7 @@ solucionar o Desafio de lógica do Bootcamp Santander 2024
 <div>
   <p>
     Fixar o conteúdo de lógica de programação
+    e solucionar o desafio do Felipão da DIO
     <img align=right width="10%" src=https://s5.ezgif.com/tmp/ezgif-5-4830bd313f.gif>
     <br><br>
   </p>
