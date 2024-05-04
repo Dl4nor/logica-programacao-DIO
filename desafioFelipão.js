@@ -3,6 +3,9 @@ let heroName = "Kastija Vascript"
 let heroExp = "2001"
 let heroClass
 
+//let qntMonsterKill
+//let expMonsterKill = 200
+
 let expClassList = [["Ferro", 1000],
                     ["Bronze", 2000],
                     ["Prata", 5000],
@@ -13,9 +16,12 @@ let expClassList = [["Ferro", 1000],
                     ["Radiante"]
                     ]
 
-let i = 0
+//heroName = prompt("Digite o nome do seu herói: ")
+//qntMonsterKill = prompt("Quantos monstros o seu heroi matou?\n")
 
-for (i;i<expClassList.length;i++){
+//heroExp = qntMonsterKill * expMonsterKill
+
+for (i=0;i<expClassList.length;i++){
     if (heroExp<=expClassList[i][1]){
         heroClass=expClassList[i][0]
         break
