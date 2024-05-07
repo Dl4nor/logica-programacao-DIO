@@ -1,0 +1,87 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Freeman', Arial, Helvetica, sans-serif;
+  }
+
+  body {
+      background: url('../Images/luxa.org-opacity-changed-ScenerySAO.png');
+      background-size:cover;
+      background-repeat: no-repeat;
+      background-position:center;
+      display:flex;
+      flex-direction:column;
+      margin: 0;
+      padding: 0;
+      align-items:start;
+      height:100vh;
+  }
+  
+  h1 {
+      background-color: #f7d3deb6;
+      border-radius: 5px;
+      margin: 30px auto;
+      padding: 15px;
+  }
+  
+  h2 {
+    background-color: #f7d3deb6;
+    text-align: center;
+    border-radius: 5px;
+    margin: 30px auto;
+    padding: 15px;
+  }
+  p {
+    background-color: #f7d3deb6;
+    padding: 15px;
+  }
+  
+  #userdata {
+      background-color: #f7d3deb6;
+      display:flex;
+      justify-content:center;
+      flex-direction:column;
+      border-radius: 5px;
+      margin: 30px auto;
+      padding: 30px;
+      max-width: 350px;
+      height: auto;
+    }
+  
+  #return-content {
+      background-color: #f7d3deb6;
+      display: none;
+      justify-content: center;
+      flex-direction:column;
+      border-radius: 5px;
+      margin: 30px auto;
+      padding: 30px;
+      max-width: 350px;
+      height: auto;
+  }
+  
+  .align-center {
+      text-align: center;
+    }
+  
+  .form-divs{
+    margin: auto auto 1.0rem auto;
+    font-size:max(1.0vw, 15px);
+  }
+  .submit-button{
+    display: block;
+    border: none;
+    border-radius: 2px;
+    background: #f88c9eef;
+    width: 100%;
+    padding: 0.85rem;
+    cursor: pointer;
+  }
+  
+  .button:hover {background-color: #f73b5a}
+  
+  input:focus {
+    outline: 0;
+    border: 2px solid #ed9191;
+  }
